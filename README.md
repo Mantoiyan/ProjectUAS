@@ -22,7 +22,7 @@ Cara Menjalankan Program :
 
 ### Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
-
+[Modul vidio youtube project Uas darmanto](https://youtu.be/fNJFHRF18Rk)
 Berikut link repository github :
 
 https://github.com/Mantoiyan/ProjectUAS.git
