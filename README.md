@@ -1,8 +1,8 @@
 # Latihan membuat MVC (Model View Controller) dengan python
 
-Nama : Syifa Aurellia Rahma
+Nama : Darmanto
 
-NIM : 312210009
+NIM : 312210423
 
 Kelas : TI.22.A1
 
@@ -25,6 +25,6 @@ Cara Menjalankan Program :
 
 Berikut link repository github :
 
-https://github.com/syifaaurellia/ProjectUAS.git
+https://github.com/Mantoiyan/ProjectUAS.git
 
 Sekian, Terima Kasih
